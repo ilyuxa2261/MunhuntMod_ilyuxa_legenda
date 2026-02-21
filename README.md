@@ -33,7 +33,7 @@ List commands:
 /sh nick toggle hunters - toggle all hunters nicks (переключить видимость ников охотников)
 
 /sh nick toggle speedrunners - toggle all speedrunners nicks (переключить видимость ников спидранеров)
-
+--------------------------------------------------------
 I made a Manhunt mod (Speedrunners vs Hunters) like Dream's!
 
 1 Only the host needs to download the mod; everyone else can join without it using vanilla Minecraft.
