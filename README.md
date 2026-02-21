@@ -27,11 +27,8 @@ List commands:
 /sh nick off hunters - show all hunters nicks (показать ники охотников)
 
 /sh nick on speedrunners - hide all speedrunners nicks (скрыть ники спидранеров)
-
 /sh nick off speedrunners - show all speedrunners nicks (показать ники спидранеров)
-
 /sh nick toggle hunters - toggle all hunters nicks (переключить видимость ников охотников)
-
 /sh nick toggle speedrunners - toggle all speedrunners nicks (переключить видимость ников спидранеров)
 --------------------------------------------------------
 I made a Manhunt mod (Speedrunners vs Hunters) like Dream's!
